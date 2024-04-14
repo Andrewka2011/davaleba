@@ -1,0 +1,7 @@
+print("Andra kutchukhidze")
+print("khatia phatsia")
+print("giorgi kutchukhidze")
+print("mzia qvitia")
+print("zurab patsia")
+print("darejan bregvadze")
+print("Temuri kutchukhidz")
